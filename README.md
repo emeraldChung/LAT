@@ -14,7 +14,7 @@
 
 [作業連結](https://github.com/emeraldChung/LAT/blob/main/README.md#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
 
-[專題連結](https://github.com/emeraldChung/LAT/edit/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90)
+[專題連結](https://github.com/emeraldChung/LAT/blob/main/README.md#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90)
 
 
 # 課程筆記
