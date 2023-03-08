@@ -21,6 +21,6 @@
 
 # 作業連結
 
-[HW week 2](https://github.com/emeraldChung/LAT/blob/main/HW%20week%202.ipynb)
+[test week 2](https://github.com/emeraldChung/LAT/blob/main/test%20week%202.ipynb)
 
 # 專題連結
