@@ -23,4 +23,6 @@
 
 [test week 2](https://github.com/emeraldChung/LAT/blob/main/test%20week%202.ipynb)
 
+[Week 3. HW1](https://github.com/emeraldChung/LAT/blob/main/HW1%20week3.ipynb)
+
 # 專題連結
