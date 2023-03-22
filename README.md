@@ -25,4 +25,6 @@
 
 [Week 3. HW1](https://github.com/emeraldChung/LAT/blob/main/HW1%20week3.ipynb)
 
+[Week 5. HW2](https://github.com/emeraldChung/LAT/blob/main/HW1%E3%80%812%20%20week3%E3%80%815.ipynb)
+
 # 專題連結
