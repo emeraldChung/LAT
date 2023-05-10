@@ -21,8 +21,30 @@
 
 ### Task-2 ###
 
-重新定義名稱
+重新定義名稱，增加各層面的分數指標並合併
 
     const sentimentT = results[0].sentiment;
     const score = results[0].confidenceScores;
     const scorePOINT = "正向指數:"+score.positive+"\n 中立指數:"+score.neutral+"\n 負向指數:"+score.negative;
+
+
+利用判斷式區分正向、中立、負向指標，並結合分數指標
+
+
+    let reply = '';
+
+    if(sentimentT == 'positive'){
+      reply = '正向\n('+ scorePOINT +')' ;
+    }else if(sentimentT == 'neutral'){
+      reply = '中立\n('+scorePOINT+')';
+    }else{
+      reply = '負向\n('+scorePOINT+')';
+    };
+   
+   
+替換回應中的程式碼為自訂義
+
+    const echo = {
+      type: 'text',
+      text: reply
+    };
