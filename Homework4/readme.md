@@ -1,5 +1,11 @@
 # HW4 #
 
+[Task-1](https://github.com/emeraldChung/LAT/tree/main/Homework4#task-1)
+
+[Task-2](https://github.com/emeraldChung/LAT/tree/main/Homework4#task-2)
+
+
+
 ## 作業內容 ##
 
 ### Task-1 ###
@@ -26,7 +32,7 @@
 
 按照老師課堂進度跟著做，沒有特別需要修正的部分
 
-### Task-2 ###
+### Task-2程式碼 ###
 
 重新定義名稱，增加各層面的分數指標並合併
 
