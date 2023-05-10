@@ -1,11 +1,5 @@
 # HW4 #
 
-[Task-1](https://github.com/emeraldChung/LAT/tree/main/Homework4#task-1)
-
-[Task-2](https://github.com/emeraldChung/LAT/tree/main/Homework4#task-2)
-
-
-
 ## 作業內容 ##
 
 ### Task-1 ###
@@ -13,7 +7,11 @@
 
 ![Task1](https://github.com/emeraldChung/LAT/blob/main/Homework4/task1.jpg)
 
+### 程式部分內容 ###
+
+
 ### Task-2 ###
+
 
 將原本單純的英文回復(positive, negative, netrual)進一步切換成中文，並新增分數指標
 
@@ -26,7 +24,7 @@
 ![Task3]思考中
 
 
-## 程式部分內容 ##
+
 
 ### Task-1 ###
 
