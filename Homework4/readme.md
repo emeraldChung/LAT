@@ -9,26 +9,13 @@
 
 ### 程式部分內容 ###
 
+按照老師課堂進度跟著做，沒有特別需要修正的部分
 
 ### Task-2 ###
-
 
 將原本單純的英文回復(positive, negative, netrual)進一步切換成中文，並新增分數指標
 
 ![Task2](https://github.com/emeraldChung/LAT/blob/main/Homework4/task2.jpg)
-
-### Task-3 ###
-
-根據文字訊息，判斷主詞，並依據主詞及內容，自動制式回復
-
-![Task3]思考中
-
-
-
-
-### Task-1 ###
-
-按照老師課堂進度跟著做，沒有特別需要修正的部分
 
 ### Task-2程式碼 ###
 
@@ -37,10 +24,8 @@
     const sentimentT = results[0].sentiment;
     const score = results[0].confidenceScores;
     const scorePOINT = "正向指數:"+score.positive+"\n 中立指數:"+score.neutral+"\n 負向指數:"+score.negative;
-
-
+    
 利用判斷式區分正向、中立、負向指標，並結合分數指標
-
 
     let reply = '';
 
@@ -61,7 +46,11 @@
     };
     
     
-    
+
 ### Task-3 ###
 
-思考中
+根據文字訊息，判斷主詞，並依據主詞及內容，自動制式回復
+
+![Task3]思考中
+
+
