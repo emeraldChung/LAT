@@ -13,6 +13,12 @@
 
 ![Task2](https://github.com/emeraldChung/LAT/blob/main/Homework4/task2.jpg)
 
+### Task-3 ###
+
+根據文字訊息，判斷主詞，並依據主詞及內容，自動制式回復
+![Task3]()
+
+
 ## 程式部分內容 ##
 
 ### Task-1 ###
