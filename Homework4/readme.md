@@ -3,19 +3,26 @@
 ## 作業內容 ##
 
 ### Task-1 ###
+
 單純的英文回復(positive, negative, netrual)
 
 ![Task1](https://github.com/emeraldChung/LAT/blob/main/Homework4/task1.jpg)
 
+
+
 ### 程式部分內容 ###
 
 按照老師課堂進度跟著做，沒有特別需要修正的部分
+
+
 
 ### Task-2 ###
 
 將原本單純的英文回復(positive, negative, netrual)進一步切換成中文，並新增分數指標
 
 ![Task2](https://github.com/emeraldChung/LAT/blob/main/Homework4/task2.jpg)
+
+
 
 ### Task-2程式碼 ###
 
