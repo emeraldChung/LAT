@@ -12,3 +12,17 @@
 將原本單純的英文回復(positive, negative, netrual)進一步切換成中文，並新增分數指標
 
 ![Task2](https://github.com/emeraldChung/LAT/blob/main/Homework4/1683745458236.jpg)
+
+## 程式部分內容 ##
+
+### Task-1 ###
+
+按照老師課堂進度跟著做，沒有特別需要修正的部分
+
+### Task-2 ###
+
+重新定義名稱
+
+    const sentimentT = results[0].sentiment;
+    const score = results[0].confidenceScores;
+    const scorePOINT = "正向指數:"+score.positive+"\n 中立指數:"+score.neutral+"\n 負向指數:"+score.negative;
