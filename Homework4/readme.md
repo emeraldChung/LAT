@@ -55,7 +55,7 @@
 
 ## Task-3 ##
 
-根據文字訊息，找出主詞，並增加回應內容
+根據文字訊息，找出主詞
     
     const sopt = results[0].sentences[0].opinions[0].target.text;
     
