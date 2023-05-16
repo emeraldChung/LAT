@@ -65,3 +65,21 @@
 ![Task3](https://github.com/emeraldChung/LAT/blob/main/Homework4/task3.jpg)
 
 
+
+## Task-3.1 ##
+
+透過分析主詞做出制式回復
+
+
+    let reply = '';
+
+    if(sentimentT == 'positive'){
+      reply = '謝謝您給予的回饋，我們會繼續保持下去的';
+    }else if(sentimentT == 'neutral'){
+      reply = '謝謝您的回饋在' + sopt +'這部分問題，我們還會再加強';
+    }else{
+      reply = '很抱歉這次給予您不愉快的體驗，我們後續會再針對' + sopt + '這方面進行改善'
+    };
+    
+    
+ ![Task3.1](https://github.com/emeraldChung/LAT/blob/main/Homework4/task3.jpg)
