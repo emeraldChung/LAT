@@ -55,7 +55,12 @@
 
 ## Task-3 ##
 
-根據文字訊息，判斷主詞，並依據主詞及內容，自動制式回復
+根據文字訊息，找出主詞，並增加回應內容
+    
+    const sopt = results[0].sentences[0].opinions[0].target.text;
+    
+    
+    
 
 ![Task3]思考中
 
