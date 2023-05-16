@@ -65,17 +65,18 @@ async function MS_TextSentimentAnalysis(thisEvent){
 
     const sentimentT = results[0].sentiment;
     const score = results[0].confidenceScores;
+    const ospt = results[0].sentences[0].opinions[0].target.text;
     const scorePOINT = "正向指數:"+score.positive+"\n 中立指數:"+score.neutral+"\n 負向指數:"+score.negative;
     
     
     let reply = '';
 
     if(sentimentT == 'positive'){
-      reply = '正向\n('+ scorePOINT +')' ;
+      reply = '正向\n('+ scorePOINT +')\n' + '主詞:' + ospt;
     }else if(sentimentT == 'neutral'){
-      reply = '中立\n('+scorePOINT+')';
+      reply = '中立\n('+scorePOINT+')\n'+ '主詞:' + ospt;
     }else{
-      reply = '負向\n('+scorePOINT+')';
+      reply = '負向\n('+scorePOINT+')\n'+ '主詞:' + ospt;
     };
 
     
