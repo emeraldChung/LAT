@@ -82,4 +82,4 @@
     };
     
     
- ![Task3.1](https://github.com/emeraldChung/LAT/blob/main/Homework4/task3.jpg)
+ ![Task3.1](https://github.com/emeraldChung/LAT/blob/main/Homework4/task3.1.jpg)
